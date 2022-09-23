@@ -12,7 +12,6 @@ function renderLicenseSection(license) { }
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  console.log(data);
   return `# ${data.title}
 
 ## Description
@@ -51,7 +50,7 @@ ${data.tests}
 
 ## Questions
 
-If you have any questions relataed to this application, I am reachable in the following ways:
+If you have any questions related to this application, I am reachable in the following ways:
 
 My GitHub username is: [${data.quest_git}](https://github.com/${data.quest_git})
 
