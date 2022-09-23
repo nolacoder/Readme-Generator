@@ -21,13 +21,13 @@ ${data.description}
 
 ## Table of Contents
 
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
-[Questions](#Questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -53,7 +53,7 @@ ${data.tests}
 
 If you have any questions relataed to this application, I am reachable in the following ways:
 
-My GitHub username is: [${data.quest_git}](github.com/${data.quest_git})
+My GitHub username is: [${data.quest_git}](https://github.com/${data.quest_git})
 
 My email is: [${data.quest_email}]
 

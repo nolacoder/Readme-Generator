@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-[Description](#Description)
-[Installation](#Installation)
-[Usage](#Usage)
-[License](#License)
-[Contributing](#Contributing)
-[Tests](#Tests)
-[Questions](#Questions)
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 
@@ -38,7 +38,7 @@
 
 If you have any questions relataed to this application, I am reachable in the following ways:
 
-My GitHub username is: [8](github.com/8)
+My GitHub username is: [8](https://github.com/8)
 
-My email is: 9
+My email is: [9]
 
